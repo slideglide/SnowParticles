@@ -1,5 +1,5 @@
 {
-	"geode": "4.0.1",
+	"geode": "4.10.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -9,9 +9,9 @@
 	"early-load": true,
 	"id": "iandyhd3.snow_particles",
 	"name": "Snow Particles",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "iAndyHD3",
-	"description": "",
+	"description": "Add snow particles to your game!",
 	"settings": {
 		"across-layers": {
 			"type": "bool",
